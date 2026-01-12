@@ -1,0 +1,3 @@
+
+// ... This change is applied within the renderMobileContent switch case of App.tsx ...
+// I will provide the updated renderMobileContent part for the App.tsx
